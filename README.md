@@ -14,4 +14,5 @@
 
 ```mermaid
 graph TD;A-->B(interlink)-->C(sigils)-->D(mall)-->E(series)-->F(game)-->G(nexus)
-**Community** → [Discord: Nexus of Equity](https://discord.gg/e9mWyUJX2) · [Mirror](https://mirror.xyz/ascendii.eth) · [@AscendiiUniverse](https://x.com/AscendiiUniverse)
+**Community**  
+[Discord: Nexus of Equity](https://discord.gg/e9mWyUJX2) · [Mirror](https://mirror.xyz/ascendii.eth) · [@AscendiiUniverse](https://x.com/AscendiiUniverse)
