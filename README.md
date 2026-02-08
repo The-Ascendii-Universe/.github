@@ -14,5 +14,7 @@
 
 ```mermaid
 graph TD;A-->B(interlink)-->C(sigils)-->D(mall)-->E(series)-->F(game)-->G(nexus)
-**Community**  
-A["Community\nDiscord - Nexus of Equity"](https://discord.gg/e9mWyUJX2) · [Mirror](https://mirror.xyz/ascendii.eth) · [@AscendiiUniverse](https://x.com/AscendiiUniverse)
+graph TD
+    A["`Community<br>Discord – Nexus of Equity`"]
+    A --> B[interlink]
+    B --> C["`**Community**<br>Discord<br>Nexus of Equity`"]
